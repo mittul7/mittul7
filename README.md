@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mittul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mittulsharma&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcomputer-coding&psig=AOvVaw1oyzIcc1WQA6-wwQfmpLIo&ust=1711513554888000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJib4f2KkYUDFQAAAAAdAAAAABAE)" alt="mittulsharma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mittulsharma&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcomputer-coding&psig=AOvVaw1oyzIcc1WQA6-wwQfmpLIo&ust=1711513554888000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJib4f2KkYUDFQAAAAAdAAAAABAE" alt="mittulsharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[[https://github-profile-trophy.vercel.app/?username=mittulsharma](https://www.google.com/url?sa=i&url=https%3A%2F%2Feng.unimelb.edu.au%2Fingenium%2Fai-data%2Fsoftware-code-much-more-than-a-numbers-game&psig=AOvVaw1eZ6oU2XWhyBREMm9RBohc&ust=1711513026363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCLjYuJkYUDFQAAAAAdAAAAABAD)](https://www.google.com/url?sa=i&url=https%3A%2F%2Feng.unimelb.edu.au%2Fingenium%2Fai-data%2Fsoftware-code-much-more-than-a-numbers-game&psig=AOvVaw1eZ6oU2XWhyBREMm9RBohc&ust=1711513026363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCLjYuJkYUDFQAAAAAdAAAAABAD)" alt="mittulsharma" /></a> </p>
 
