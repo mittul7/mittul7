@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mittulsharma&label=Profile%20views&color=0e75b6&style=flat" alt="mittulsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mittulsharma" alt="mittulsharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=mittulsharma](https://www.google.com/url?sa=i&url=https%3A%2F%2Feng.unimelb.edu.au%2Fingenium%2Fai-data%2Fsoftware-code-much-more-than-a-numbers-game&psig=AOvVaw1eZ6oU2XWhyBREMm9RBohc&ust=1711513026363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCLjYuJkYUDFQAAAAAdAAAAABAD)" alt="mittulsharma" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
